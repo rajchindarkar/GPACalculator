@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA_chindarkard1_Calculator</string>
+    <string name="app_scr_msg">GPA Evaluation</string>
+    <string name="app_btn_Compute_label">Compute GPA</string>
+    <string name="app_btn_Clear_label">Clear</string>
+    <string name="app_Clear_Marks">0</string>
+    <string name="app_tv_se_lbl">Mobile Computing</string>
+    <string name="app_tv_mc_lbl">Operating Systems</string>
+    <string name="app_tv_db_lbl">Database Design</string>
+    <string name="app_tv_os_lbl">Softare Engineering</string>
+    <string name="app_tv_cl_lbl">Cyber Law</string>
+    <string name="app_Welcome_msg">Welcome</string>
+    <string name="app_err_range_zero_msg"> Your score can not be zero</string>
+    <string name="app_err_range_above100_msg">Your score can not be above 100</string>
+    <string name="app_GPA_score_msg">Your GPA is :</string>
+    <string name="app_err_blank_msg">Blank Fields Not Allowed</string>
+</resources>
